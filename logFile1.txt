@@ -1,0 +1,14 @@
+
+                         Aveiro Handicraft SARL - Description of the internal state
+
+------Problem input values:
+Product cost (material amount) = 1
+Amount of materials per delivery = 10
+Minimum amount of products per delivery = 10
+Total amount of materials = 20
+Log file path = logFile1.txt
+
+
+ENTREPRE  CUST_0  CUST_1  CUST_2   CRAFT_0 CRAFT_1 CRAFT_2           SHOP                 WORKSHOP
+  Stat   Stat BP Stat BP Stat BP   Stat BP Stat BP Stat BP  Stat NCI NPI PCR PMR  APMI NPI NSPM TAPM TNP
+   OTS   CODC  0 CODC  0 CODC  0     FPM  0 FPM  0 FPM  0    OP   0   0   F   F      0   0   0    0   0
